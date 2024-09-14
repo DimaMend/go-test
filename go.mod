@@ -17,7 +17,7 @@ require (
 	github.com/pulumi/pulumi-command/sdk v1.0.1
 	github.com/pulumi/pulumi-datadog/sdk/v4 v4.32.0
 	github.com/pulumi/pulumi-github/sdk/v6 v6.2.3
-	github.com/pulumi/pulumi-kubernetes/sdk/v4 v4.17.0
+	github.com/pulumi/pulumi-kubernetes/sdk/v4 v4.18.1
 	github.com/pulumi/pulumi-postgresql/sdk/v3 v3.11.3
 	github.com/pulumi/pulumi-random/sdk/v4 v4.16.3
 	github.com/pulumi/pulumi-snowflake/sdk v0.55.0
