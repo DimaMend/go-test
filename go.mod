@@ -4,20 +4,20 @@ go 1.22.4
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
-	github.com/DataDog/datadog-api-client-go/v2 v2.29.0
+	github.com/DataDog/datadog-api-client-go/v2 v2.31.0
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/aws/aws-sdk-go-v2/config v1.27.28
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.32.5
 	github.com/go-faster/errors v0.7.1
 	github.com/go-faster/jx v1.1.0
 	github.com/lib/pq v1.10.9
-	github.com/ogen-go/ogen v1.3.0
+	github.com/ogen-go/ogen v1.4.1
 	github.com/pulumi/pulumi-aws/sdk/v6 v6.49.1
 	github.com/pulumi/pulumi-cloudflare/sdk/v5 v5.36.0
 	github.com/pulumi/pulumi-command/sdk v1.0.1
 	github.com/pulumi/pulumi-datadog/sdk/v4 v4.32.0
 	github.com/pulumi/pulumi-github/sdk/v6 v6.2.3
-	github.com/pulumi/pulumi-kubernetes/sdk/v4 v4.17.0
+	github.com/pulumi/pulumi-kubernetes/sdk/v4 v4.18.1
 	github.com/pulumi/pulumi-postgresql/sdk/v3 v3.11.3
 	github.com/pulumi/pulumi-random/sdk/v4 v4.16.3
 	github.com/pulumi/pulumi-snowflake/sdk v0.55.0
@@ -27,14 +27,14 @@ require (
 	github.com/r3labs/diff/v3 v3.0.1
 	github.com/rs/zerolog v1.33.0
 	github.com/stretchr/testify v1.9.0
-	go.opentelemetry.io/otel v1.28.0
-	go.opentelemetry.io/otel/metric v1.28.0
-	go.opentelemetry.io/otel/trace v1.28.0
+	go.opentelemetry.io/otel v1.30.0
+	go.opentelemetry.io/otel/metric v1.30.0
+	go.opentelemetry.io/otel/trace v1.30.0
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20240808152545-0cdaa3abc0fa
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/postgres v1.5.9
-	gorm.io/gorm v1.25.11
+	gorm.io/gorm v1.25.12
 )
 
 require (
